@@ -72,12 +72,12 @@ header div {
 }
 
 /* Sets the style of unordered lists within the header section */
-header div ul {
+header ul {
     list-style-type: none;
 }
 
 /* Sets the style of elements in lists within the header section */
-header div ul li {
+header ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -98,13 +98,13 @@ content div {
 }
 
 /* Styles h2 within the content section */
-content div h2 {
+content h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
 /* Styles the immages within the content section */
-content div img {
+content img {
     max-height: 200px;
 }
 
@@ -125,13 +125,13 @@ content div img {
 }
 
 /* Styles h3 within the .benefits section */
-.benefits div h3 {
+.benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
 /* Styles the immages within the .benefits section */
-.benefits div img {
+.benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
